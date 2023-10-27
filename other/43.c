@@ -11,7 +11,7 @@ int main() {
     {
         return 0;
     }
-  puts ("\nOUTPUT:\n");
+    puts ("\nOUTPUT:");
 	  if (l > 5 && l % 2 == 0 && l < 20)
     {
         return 0;
@@ -23,17 +23,4 @@ int main() {
             printf ("%c", a[i]);
         }
 		}
-		
-
-
-
-
-
-
-  
-  
-  //--FIXED PART - DO NOT EDIT ANY THINGS HERE
-  printf("\n");
-  system ("pause");
-  return(0);
 }
