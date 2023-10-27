@@ -1,4 +1,4 @@
-1. Kiểm tra số lần mảng a xuất hiện trong mảng b [ VD: a[]="ngu đần ngu", b[]="ngu" => số lần xuất hiện là 2 ].
+1. Kiểm tra số lần chuỗi a xuất hiện trong chuỗi b [ VD: a[]="ngu đần ngu", b[]="ngu" => số lần xuất hiện là 2 ].
 _
 2. In ra trung bình cộng của các phần tử ở vị trí chẵn (0, 2, 4, 6,..).
 _
@@ -82,6 +82,6 @@ _
 _
 41. Điền vào 1 chuỗi 100 kí tự hãy, tìm các số lẻ và tính tổng của chúng.
 _
-42. Tính bù 2 củ một 1 byte (8 bit).
+42. Tính bù 2 của một 1 byte (8 bit).
 _
 43. Nhập vào chuỗi có n phần tử (n là số lẻ), sau đó lấy ra 5 kí tự ở giữa.
