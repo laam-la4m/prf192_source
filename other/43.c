@@ -3,6 +3,7 @@
 
 
 int main() {
+    //------//
     int i;
     char a[20];
     scanf ("%s", a);
@@ -11,7 +12,9 @@ int main() {
     {
         return 0;
     }
+    //-----//
     puts ("\nOUTPUT:");
+    //----//
 	  if (l > 5 && l % 2 == 0 && l < 20)
     {
         return 0;
