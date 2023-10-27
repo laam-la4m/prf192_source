@@ -1,0 +1,28 @@
+1.v(x)
+v1: cạnh đáy hướng lên trên.
+v2: cạnh đáy hướng xuống dưới.
+_
+2.v(x)
+v1: góc vuông ở góc dưới bên trái.
+v2: góc vuông ở góc dưới bên phải.
+v3: góc vuông ở góc trên bên trái.
+v4: góc vuông ở góc trên bên phải.
+⚠️: Xóa 1 cmt để sử dụng hình rỗng hoặc hình kín.
+_
+3.
+⚠️: Trong vòng for có 3 dòng printf, hãy xóa cmt 1 dòng để sử dụng.
+_
+4.
+_
+6.
+⚠️: Xóa đồng thời 2 cmt đồng loại trong vòng lặp để thành hình rỗng hoặc kín.
+7.v(x)
+⚠️: Xóa cmt để có hình rỗng hoặc kín   
+v1: hình bình hành hướng từ phải -> trái.
+v2: hình hình hành hướng từ trái -> phải 
+_
+flex_7_v(x): (x như trên)
+Có thể nhập chiều cao và chiều dài cho hình bình hành.
+_
+8. Tam giác số nguyên tố.
+
