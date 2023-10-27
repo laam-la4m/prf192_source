@@ -83,3 +83,5 @@ _
 41. Điền vào 1 chuỗi 100 kí tự hãy, tìm các số lẻ và tính tổng của chúng.
 _
 42. Tính bù 2 củ một 1 byte (8 bit).
+_
+43. Nhập vào chuỗi có n phần tử (n là số lẻ), sau đó lấy ra 5 kí tự ở giữa.
