@@ -20,4 +20,4 @@ d. The `draw` folder contains problems related to drawing, while the `other` fol
 4. Good luck! 🍀
 
 ---
-✅ Tip: Maybe you need read and edit `0.txt` file base on your brain. It can help you find source code faster.
+✅ Tip: Maybe you need read and edit all `0.txt` file base on your brain. It can help you find source code faster.
