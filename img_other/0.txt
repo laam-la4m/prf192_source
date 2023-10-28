@@ -29,7 +29,7 @@ _
 _
 28. Kiểm tra xem mảng có tăng dần hay không. Nếu không in ra "0", nếu có in ra "1".
 _
-29. Kiểm tra xem số đó có phải là "perfect number" (là số có tổng các ước cộng lại bằng chính nó) hay không, nếu có thì in ra như output í:)).
+29. Kiểm tra xem số đó có phải là "perfect number" (là số có tổng các ước cộng lại bằng chính nó) hay không, nếu có thì in ra như output í.
 _
 32. Nhập 5 số nguyên, in ra tổng của các số chia hết cho 3 nhưng ko chia hết cho 5.
 _
@@ -45,8 +45,11 @@ _
 _
 42. Tính bù 2 của một 1 byte (8 bit).
 _
-44. Nhập vào 7 số, in ra số có 2 chữ số được lặp lại nhiều nhất. Nếu không có bất kì số có 2 chữ số nào in ra dòng "..." (như output)
+44. Nhập vào 7 số, in ra số có hai chữ số được lặp lại nhiều nhất. Nếu không có bất kì số có 2 chữ số nào in ra dòng "..." (như output)
 _
+45. Nhập vào 7 số, in ra các số được lặp lại nhiều nhất và số lần lặp lại của chúng.
+_
+46. Nhập khoảng (a,b), tìm tổng của 2 số nguyên tố cuối cùng trong khoảng.
 ---
 CHAR:
 
