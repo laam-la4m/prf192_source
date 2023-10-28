@@ -95,3 +95,4 @@ _
 _
 43. Nhập vào chuỗi có n phần tử (n là số lẻ), sau đó lấy ra 5 kí tự ở giữa.
 _
+48. Nhập vào một chuỗi gồm các từ, in ra độ dài của từ cuối cùng.
