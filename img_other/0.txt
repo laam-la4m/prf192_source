@@ -1,22 +1,15 @@
+---
+NUMB:
+
 1. Kiểm tra số lần chuỗi a xuất hiện trong chuỗi b.
 _
-2. In ra trung bình cộng của các phần tử ở vị trí chẵn (0, 2, 4, 6,..).
+2. In ra trung bình cộng của các phần tử ở vị trí chẵn (0, 2, 4, 6,...).
 _
 3. Kiểm tra một số có phải là tổng của 2 số nguyên bình phương không (perfect squares).
-_
-4. In ra một dãy các kí tự ngẫu nhiên trong bảng chữ cái và không có chữ cái nào trùng nhau.
-_
-5_v1. Nhập vào n tên sau đó nhập kí tự cần tìm kiếm, chương trình sẽ tìm kiếm cái tên nào có chữ cái đầu là nó (chỉ viết hoa hoặc viết thường).
-_
-5_v2. Như 5_v1 nhưng có thể tìm kiếm cả chữ cái hoa lẫn chữ cái thường.
 _
 6. Nhập vào một số, nếu số đó là số nguyên tố thì in ra mã hexa của nó, nếu không thì in ra %d is not...
 _
 7. Nhập vào n số, loại bỏ các phần tử trùng lặp và sắp xếp lại dãy số từ bé đến lớn.
-_
-8. Tìm tất cả các chuỗi con được lặp lại trong chuỗi lớn và đảo ngược nó trong chuỗi lớn.
-_
-9. Nhập n kí tự, in ra 2 kí tự được lặp lại nhiều nhất, nếu số lần lặp lại bằng nhau, in theo thứ tự nhập của người dùng.
 _
 10. Nhập 7 số và in ra các số chẵn có số lần lặp lại nhiều nhất (số lần lặp lại trùng nhau thì in và sắp xếp từ lớn đến bé). Nếu không có số nào thì in ra chữ "Pew!!!"
 _
@@ -26,41 +19,17 @@ _
 _
 13. Tính tổng chữ số đầu và chữ số cuối của 1 chữ số.
 _
-14. Nhập phần n phần tử, nhập số nguyên p. Xóa bỏ phần tử thứ p ra khỏi chuỗi.
-_
-15. Chuyển tất cả các chữ cái có vị trí chẵn trong chuỗi từ chữ thường thành chữ in.
-_
-16. Nhập n phần tử số, in ra bình phương của các số chẵn trong chuỗi, thứ tự theo thứ tự nhập vào của người dùng.
-_
 17. Nhập n phần tử, tìm số nhỏ nhất thứ 2.
-_
-18. Chuẩn hóa toàn bộ chuỗi (nghĩa là chuyển hết các kí tự từ in hoa thành in thường và ngược lại).
 _
 19. Kiểm tra số nhập vào xem có phải là lũy thừa của 2 hay không, nếu đúng in ra số mũ, nếu không in ra "%d is.....".
 _
-20. Kiểm tra xem mảng 'chữ' nhập vào có đối xứng hay không, nếu có in ra "0", nếu không in ra "1".
-_ 
-21. Phân tách họ và tên.
-_ 
-22. Nhập vào mảng n chữ số, in ra 2 mảng chẵn lẻ, ở các dòng riêng biệt.
-_
-23. Đảo ngược chuỗi.
-_
 24. Nhập 2 số, in ra lần lượt Ước Chung Lớn Nhất và Bội Chung Nhỏ Nhất Giữa Chúng.
-_
-25. Nhập n phần tử, chèn thêm 1 phần tử vào vị trí bất kì trong chuỗi (chèn thêm chứ không phải xóa đi rồi chèn).
-_
-26. Nhập chuỗi, xóa toàn bộ các kí tự không nằm trong bảng chữ cái (bao gồm số, khoảng trắng, kí tự đặc biệt).
 _
 27. Nhập ma trận vuông n x n, tính tổng đường chéo chính của ma trận.
 _
 28. Kiểm tra xem mảng có tăng dần hay không. Nếu không in ra "0", nếu có in ra "1".
 _
-29. Kiểm tra xem số đó có phải là "perfect number"( là số có tổng các ước cộng lại bằng chính nó) hay không, nếu có thì in ra như output í:)).
-_
-30. Kiểm tra xem có bao nhiêu từ bắt đầu bằng chữ 'h' và kết thúc bằng chữ 'g'.
-_
-31. Đếm xem 3 chữ cái đầu tiên của chuỗi có bao nhiêu kí tự ( không bao gồm khoảng trắng).
+29. Kiểm tra xem số đó có phải là "perfect number" (là số có tổng các ước cộng lại bằng chính nó) hay không, nếu có thì in ra như output í:)).
 _
 32. Nhập 5 số nguyên, in ra tổng của các số chia hết cho 3 nhưng ko chia hết cho 5.
 _
@@ -68,20 +37,58 @@ _
 _
 34. Nhập n số nguyên, hoán đổi bị trí giữa số lớn nhất và số bé nhất trong chuỗi.
 _
-35. Nhập chuỗi, in ra chuỗi với các từ đã được in hoa 2 chữ cái đầu.
-_
 36. Nhập tổng của 2 ma trận row x col.
 _
-37. Biến các chữ in hoa thành tin thường và ngược lại.
-_
-38. Sắp xếp tên theo thứ tự bảng chữ cái.
-_
 39. Kiểm tra dãy n số nguyên nhập vào xem có phải là chuỗi đối xứng không? Nếu đúng in ra 1, sai in ra 0.
-_
-40. Sắp xếp 4 kí tự theo thứ tự bảng chữ cái.
 _
 41. Điền vào 1 chuỗi 100 kí tự hãy, tìm các số lẻ và tính tổng của chúng.
 _
 42. Tính bù 2 của một 1 byte (8 bit).
 _
+44. Nhập vào 7 số, in ra số có 2 chữ số được lặp lại nhiều nhất. Nếu không có bất kì số có 2 chữ số nào in ra dòng "..." (như output)
+_
+---
+CHAR:
+
+4. In ra một dãy các kí tự ngẫu nhiên trong bảng chữ cái và không có chữ cái nào trùng nhau.
+_
+5_v1. Nhập vào n tên sau đó nhập kí tự cần tìm kiếm, chương trình sẽ tìm kiếm cái tên nào có chữ cái đầu là nó (chỉ viết hoa hoặc viết thường).
+_
+5_v2. Như 5_v1 nhưng có thể tìm kiếm cả chữ cái hoa lẫn chữ cái thường.
+_
+8. Tìm tất cả các chuỗi con được lặp lại trong chuỗi lớn và đảo ngược nó trong chuỗi lớn.
+_
+9. Nhập n kí tự, in ra 2 kí tự được lặp lại nhiều nhất, nếu số lần lặp lại bằng nhau, in theo thứ tự nhập của người dùng.
+_
+14. Nhập phần n phần tử, nhập số nguyên p. Xóa bỏ phần tử thứ p ra khỏi chuỗi.
+_
+15. Chuyển tất cả các chữ cái có vị trí chẵn trong chuỗi từ chữ thường thành chữ in.
+_
+18. Chuẩn hóa toàn bộ chuỗi (nghĩa là chuyển hết các kí tự từ in hoa thành in thường và ngược lại).
+_
+20. Kiểm tra xem mảng 'chữ' nhập vào có đối xứng hay không, nếu có in ra "0", nếu không in ra "1".
+_
+21. Phân tách họ và tên.
+_
+22. Nhập vào mảng n chữ số, in ra 2 mảng chẵn lẻ, ở các dòng riêng biệt.
+_
+23. Đảo ngược chuỗi.
+_
+25. Nhập n phần tử, chèn thêm 1 phần tử vào vị trí bất kì trong chuỗi (chèn thêm chứ không phải xóa đi rồi chèn).
+_
+26. Nhập chuỗi, xóa toàn bộ các kí tự không nằm trong bảng chữ cái (bao gồm số, khoảng trắng, kí tự đặc biệt).
+_
+30. Kiểm tra xem có bao nhiêu từ bắt đầu bằng chữ 'h' và kết thúc bằng chữ 'g'.
+_
+31. Đếm xem 3 chữ cái đầu tiên của chuỗi có bao nhiêu kí tự ( không bao gồm khoảng trắng và kí tự đặc biệt).
+_
+35. Nhập chuỗi, chuyển tất cả kí tự thành dạng chữ cái đầu viết hoa.
+_
+37. Xóa tất cả kí tự không phải là số trong chuỗi.
+_
+38. Đếm số lượng các từ riêng biệt trong chuỗi.
+_
+40. Đếm số kí tự và số từ trong một chuỗi.
+_
 43. Nhập vào chuỗi có n phần tử (n là số lẻ), sau đó lấy ra 5 kí tự ở giữa.
+_
