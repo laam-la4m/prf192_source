@@ -1,4 +1,4 @@
-1. Kiểm tra số lần chuỗi a xuất hiện trong chuỗi b [ VD: a[]="ngu đần ngu", b[]="ngu" => số lần xuất hiện là 2 ].
+1. Kiểm tra số lần chuỗi a xuất hiện trong chuỗi b.
 _
 2. In ra trung bình cộng của các phần tử ở vị trí chẵn (0, 2, 4, 6,..).
 _
