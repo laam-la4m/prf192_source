@@ -1,5 +1,5 @@
 ## PRF192_SOURCE_FOR_PRACTICE_EXAM
-![#nhungkedangthatvong](https://imgur.com/a/CtqMSeE)
+![#nhungkedangthatvong](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTmk03XjXB7BOg7T_FUWl0w&psig=AOvVaw099qoVi_mAzYKtfoxgvdUB&ust=1698652119426000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiP36_imoIDFQAAAAAdAAAAABAE)
 
 ---
 ##### 🚩 Introduction
