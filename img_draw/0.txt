@@ -29,4 +29,9 @@ _
 9.v(x): Tam giác Pascal
 v1: Tam giác vuông
 v2: Tam giác cân
-
+_
+10.v(x): Tam giác đều
+v1: Xuôi
+v2: Ngược
+_
+11. Tam giác Floyd

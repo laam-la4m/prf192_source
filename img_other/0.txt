@@ -37,7 +37,7 @@ _
 _
 34. Nhập n số nguyên, hoán đổi bị trí giữa số lớn nhất và số bé nhất trong chuỗi.
 _
-36. Nhập tổng của 2 ma trận row x col.
+36. Tính tổng của 2 ma trận row x col.
 _
 39. Kiểm tra dãy n số nguyên nhập vào xem có phải là chuỗi đối xứng không? Nếu đúng in ra 1, sai in ra 0.
 _
@@ -54,6 +54,10 @@ _
 49. Nhập vào một dãy gồm n số, nhập m, tìm tổng của 2 số trong dãy đó có tổng bằng m và in ra vị trí của chúng trong dãy.
 _
 50. Nhập vào một số, tính tổng bình phương các chữ số của số đó, lặp lại với kết quả của chúng. Nếu cuối của vòng lặp xuất hiện kết quả bằng 1, in ra "True", nếu xuất hiện vòng lặp vô hạn, in ra "False".
+_
+52. Nhập vào một số, in ra các thừa số nguyên tố của số đó.
+_
+53. Liệt kê tất cả các số trong dãy Fibo nhỏ hơn n.
 _
 
 ---
@@ -106,3 +110,5 @@ _
 48. Nhập vào một chuỗi gồm các từ, in ra độ dài của từ cuối cùng.
 _
 51. Nhập vào một mật khẩu, kiểm tra xem mật khẩu có đủ mạnh không (nghĩa là bao gồm ít nhất 1 chữ cái viết HOA, một chữ số, một kí tự đặc biệt).
+_
+54. Ghép hai chuỗi lại với nhau.

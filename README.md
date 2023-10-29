@@ -7,7 +7,7 @@ a. This repository contains four folders: `draw`, `img_draw`, `other`, and `img_
 
 b. The `draw` and `other` folders contain **source code** files.
 
-c. The `img_draw` and `img_other` folders contain **images of the expected output** and **executable files (.exe)** on `output` folder to assist you in testing the output of the code then help you identify and match the source code easily .
+c. The `img_draw` and `img_other` folders contain **images of the expected output** and **executable files (.exe)** on sub folder `output` to assist you in testing the output of the code then help you identify and match the source code easily .
 
 d. The `draw` folder contains problems related to **drawing**, while the `other` folder contains problems **unrelated to drawing**.
 

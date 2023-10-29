@@ -4,7 +4,7 @@ int main()
 {
     int row, col, i, j;
     scanf("%d%d", &row, &col);
-    int a[row][col], b[row][col], sum[row][col];
+    int a[row][col], b[row][col], output[row][col];
     for (i = 0; i < row; i++)
     {
         for (j = 0; j < col; j++)
@@ -24,14 +24,14 @@ int main()
     {
         for (j = 0; j < col; j++)
         {
-            sum[i][j] = a[i][j] + b[i][j];
+            output[i][j] = a[i][j] + b[i][j]; // Change '+' -> '-'
         }
     }
     for (i = 0; i < row; i++)
     {
         for (j = 0; j < col; j++)
         {
-            printf("%d", sum[i][j]);
+            printf("%d", output[i][j]);
             if (j < col - 1) printf(" ");
         }
         printf("\n");
