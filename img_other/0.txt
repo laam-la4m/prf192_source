@@ -51,6 +51,12 @@ _
 _
 46. Nhập khoảng (a,b), tìm tổng của 2 số nguyên tố cuối cùng trong khoảng.
 ---
+49. Nhập vào một dãy gồm n số, nhập m, tìm tổng của 2 số trong dãy đó có tổng bằng m và in ra vị trí của chúng trong dãy.
+_
+50. Nhập vào một số, tính tổng bình phương các chữ số của số đó, lặp lại với kết quả của chúng. Nếu cuối của vòng lặp xuất hiện kết quả bằng 1, in ra "True", nếu xuất hiện vòng lặp vô hạn, in ra "False".
+_
+
+---
 CHAR:
 
 4. In ra một dãy các kí tự ngẫu nhiên trong bảng chữ cái và không có chữ cái nào trùng nhau.
@@ -95,4 +101,8 @@ _
 _
 43. Nhập vào chuỗi có n phần tử (n là số lẻ), sau đó lấy ra 5 kí tự ở giữa.
 _
+47. Nhập vào 2 kí tự, in ra giá trị bit của nó, nếu không đủ 8 bit thì thêm số 0 vào cho đủ.
+_
 48. Nhập vào một chuỗi gồm các từ, in ra độ dài của từ cuối cùng.
+_
+51. Nhập vào một mật khẩu, kiểm tra xem mật khẩu có đủ mạnh không (nghĩa là bao gồm ít nhất 1 chữ cái viết HOA, một chữ số, một kí tự đặc biệt).

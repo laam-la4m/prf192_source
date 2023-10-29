@@ -25,4 +25,8 @@ flex_7_v(x): (x như trên)
 Có thể nhập chiều cao và chiều dài cho hình bình hành.
 _
 8. Tam giác số nguyên tố.
+_
+9.v(x): Tam giác Pascal
+v1: Tam giác vuông
+v2: Tam giác cân
 

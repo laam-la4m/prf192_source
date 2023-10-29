@@ -2,7 +2,7 @@
 
 int main()
 {
-
+    //---------//
     int a[7], count[100] = {0}, i, max = 0;
 
     for (i = 0; i < 7; i++)
@@ -16,9 +16,10 @@ int main()
                 max = count[a[i]];
             }
         }
-    }
-
+    }   
+    //---------//
     puts("\nOUTPUT:");
+    //---------//
     if (max == 0)
     {
         printf ("no two-digits number");

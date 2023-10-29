@@ -3,6 +3,7 @@
 
 int main ()
 {
+    //---------//
     int a, b, i , j, check, sum = 0, sum_check = 0;
     scanf ("%d%d", &a, &b);
     
@@ -34,6 +35,8 @@ int main ()
             }
         }
     }
+    //---------//
     puts ("\nOUTPUT:");
+    //---------//
     printf ("%d", sum);
 }
