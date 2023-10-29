@@ -1,7 +1,7 @@
-### PRF192_SOURCE_FOR_PRACTICE_EXAM
-#### by #nhungkedangthatvong
----
+## PRF192_SOURCE_FOR_PRACTICE_EXAM
+![#nhungkedangthatvong](https://imgur.com/a/vzXg24i)
 
+---
 ##### 🚩 Introduction
 a. This repository contains four folders: `draw`, `img_draw`, `other`, and `img_other`.
 
