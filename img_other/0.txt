@@ -1,8 +1,6 @@
 ---
 NUMB:
 
-1. Kiểm tra số lần chuỗi a xuất hiện trong chuỗi b.
-_
 2. In ra trung bình cộng của các phần tử ở vị trí chẵn (0, 2, 4, 6,...).
 _
 3. Kiểm tra một số có phải là tổng của 2 số nguyên bình phương không (perfect squares).
@@ -59,10 +57,19 @@ _
 _
 53. Liệt kê tất cả các số trong dãy Fibo nhỏ hơn n.
 _
+56. Ghép 2 dãy số lại với nhau, xóa bỏ phần tử trùng lặp và sắp xếp chúng từ bé -> lớn
+_
+57. Nhập vào dãy 7 số, in ra các khoảng liên tiếp nhau, nếu không có khoảng thì là số đơn lẻ.
+_
+58. Kiểm tra xem số được nhập vào có phải là ugly number (lá số có tích từ các số 2, 3 ,5. VD: 6 = 2 x 3; 30 = 2 x 3 x 5) không? 
+_
+59. Nhập vào một số n, nhập vào n số từ 0 -> n - lúc này sẽ bị thiếu 1 số - chương trình sẽ in ra số còn lại trong dãy từ 0 -> n đó.
 
 ---
 CHAR:
 
+1. Kiểm tra số lần chuỗi a xuất hiện trong chuỗi b.
+_
 4. In ra một dãy các kí tự ngẫu nhiên trong bảng chữ cái và không có chữ cái nào trùng nhau.
 _
 5_v1. Nhập vào n tên sau đó nhập kí tự cần tìm kiếm, chương trình sẽ tìm kiếm cái tên nào có chữ cái đầu là nó (chỉ viết hoa hoặc viết thường).
@@ -112,3 +119,7 @@ _
 51. Nhập vào một mật khẩu, kiểm tra xem mật khẩu có đủ mạnh không (nghĩa là bao gồm ít nhất 1 chữ cái viết HOA, một chữ số, một kí tự đặc biệt).
 _
 54. Ghép hai chuỗi lại với nhau.
+_
+55. Nhập vào các từ, in ra phần đầu của các từ nếu chúng được lặp lại.
+_
+60. Nhập vào dãy a, b. Kiểm tra xem các phần tử của dãy a có nằm trong dãy b không, nếu tất cả đều nằm trong b, in ra true và ngược lại.
