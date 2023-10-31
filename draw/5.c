@@ -17,7 +17,6 @@ int main()
         {
             printf("%c", 'A' + j);
         }
-
         printf("\n");
     }
 }
