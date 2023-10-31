@@ -48,7 +48,7 @@ _
 45. Nhập vào 7 số, in ra các số được lặp lại nhiều nhất và số lần lặp lại của chúng.
 _
 46. Nhập khoảng (a,b), tìm tổng của 2 số nguyên tố cuối cùng trong khoảng.
----
+_
 49. Nhập vào một dãy gồm n số, nhập m, tìm tổng của 2 số trong dãy đó có tổng bằng m và in ra vị trí của chúng trong dãy.
 _
 50. Nhập vào một số, tính tổng bình phương các chữ số của số đó, lặp lại với kết quả của chúng. Nếu cuối của vòng lặp xuất hiện kết quả bằng 1, in ra "True", nếu xuất hiện vòng lặp vô hạn, in ra "False".

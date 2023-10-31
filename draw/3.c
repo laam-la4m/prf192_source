@@ -17,12 +17,11 @@ int main()
         {
             printf("%d ", j); // printf natural numbers
             //printf("%d ", (i+j)%2); // 0 and 1 but 0 first
-            //printf("%d", (i+j+1)%2); // 1 and 0 but 1 first
+            //printf("%d ", (i+j+1)%2); // 1 and 0 but 1 first
         }
         printf("\n");
         
     }
-
 }
 
 
