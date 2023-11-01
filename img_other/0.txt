@@ -124,3 +124,5 @@ _
 55. Nhập vào các từ, in ra phần đầu của các từ nếu chúng được lặp lại.
 _
 60. Nhập vào dãy a, b. Kiểm tra xem các phần tử của dãy a có nằm trong dãy b không, nếu tất cả đều nằm trong b, in ra true và ngược lại.
+_
+61. Nhập một chuỗi, viết hoa chữ cái đầu của chuỗi đó.

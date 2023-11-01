@@ -3,11 +3,13 @@
 
 int main()
 {
+    //---------//
     char s[101];
     int i, count = 0, len;
     gets(s);
-
+    //-----------//
     puts("\nOUTPUT:");
+    //-----------//
     char *p = strtok(s, " ");
     while (p != NULL)
     {
