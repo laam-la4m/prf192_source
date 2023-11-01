@@ -24,6 +24,7 @@ Trong 2 thư mục `img_draw` và `img_other` chứa file `0.txt` - đó là fil
 1. Hãy vào toàn bộ các thư mục và setup như sau:
 
 [![watch]()](https://github.com/laam-la4m/prf_by_nkdtv/assets/143879541/e1ea25de-3bf0-451d-b561-8c200da9b82e)
+
 Việc này giúp quá trình tìm được in/output vừa ý nhanh hơn, bạn có thể kết hợp ảnh và mô tả trong file `0.txt`.
 1. Nếu đã tìm được in/output đúng như mong muốn, hãy nhớ số của nó và sang file `other` hoặc `draw` tùy theo folder trước đó bạn tìm thấy in/output.
 2. Kiểm in/output trong folder `output` nếu chưa chắc chắn. Sau đó copy các phần vào bài làm tùy theo ý bạn.
