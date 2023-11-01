@@ -4,7 +4,7 @@
 ---
 #### 🚩INTRODUCTION:
 *Tại sao bạn cần source cho kì thi PE?*
-Thời gian cho kì thi PE là 85 phút, khá là ít + tâm lý trong phòng thi sẽ khiến bnạ mất tập trung, khó suy nghĩ, bla bla ... . Nói chung là khó mà hoàn thành hết được toàn bộ bài thi.
+Thời gian cho kì thi PE là 85 phút, khá là ít + tâm lý trong phòng thi sẽ khiến bạn mất tập trung, khó suy nghĩ, bla bla ... . Nói chung là khó mà hoàn thành hết được toàn bộ bài thi.
 *Source là giải pháp?*
 Là một trong những giải pháp và được đa số người lựa chọn vì nó dễ chuẩn bị.
 *Vậy source là gì?*
