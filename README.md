@@ -22,10 +22,11 @@ Ngoài ra trong 2 thư mục `draw` và `other` còn chứa thư mục con là `
 Trong 2 thư mục `img_draw` và `img_other` chứa file `0.txt` - đó là file ghi **toàn bộ các mô tả và đề bài** tương ứng.
 #### ❓HOW TO USE:
 1. Hãy vào toàn bộ các thư mục và setup như sau:
+
 [![watch]()](https://github.com/laam-la4m/prf_by_nkdtv/assets/143879541/e1ea25de-3bf0-451d-b561-8c200da9b82e)
 Việc này giúp quá trình tìm được in/output vừa ý nhanh hơn, bạn có thể kết hợp ảnh và mô tả trong file `0.txt`.
-2. Nếu đã tìm được in/output đúng như mong muốn, hãy nhớ số của nó và sang file `other` hoặc `draw` tùy theo folder trước đó bạn tìm thấy in/output.
-3. Kiểm in/output trong folder `output` nếu chưa chắc chắn. Sau đó copy các phần vào bài làm tùy theo ý bạn.
-4. Goodluck🍀.
+1. Nếu đã tìm được in/output đúng như mong muốn, hãy nhớ số của nó và sang file `other` hoặc `draw` tùy theo folder trước đó bạn tìm thấy in/output.
+2. Kiểm in/output trong folder `output` nếu chưa chắc chắn. Sau đó copy các phần vào bài làm tùy theo ý bạn.
+3. Goodluck🍀.
 ---
 ✅ Tip: bạn nên đọc lại các file `0.txt` và diễn đạt lại các đề bài theo ý của bản thân.
