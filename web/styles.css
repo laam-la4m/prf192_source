@@ -9,7 +9,12 @@ body {
     font-family: 'IntelOneMono-Medium';
     src: url('IntelOneMono-Medium.otf') format('otf'),
 }
-
+.left-text
+{
+    font-size:20px;
+    padding:14px;
+    flex-grow: 1;
+}
 .navbar {
     position: fixed;
     width: 100%;
@@ -37,7 +42,7 @@ body {
 }
 
 .content {
-    padding: 30px;
+    padding: 40px;
 }
 
 .library {

@@ -1,13 +1,12 @@
-/* Định dạng cho thẻ pre */
 pre {
     margin: 0;
     padding: 10px;
     font-family: 'IntelOneMono-Medium', monospace;
     font-size: 15px;
     line-height: 1.4;
-    background-color: #f7f8fa;
-    color: #333;
-    border: 1px solid #d1d5da;
+    background-color: #cbcaca;
+    color: #000000;
+    border: 3px solid #37bd44;
     border-radius: 6px;
     overflow: auto;
 }
