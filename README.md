@@ -3,9 +3,10 @@
 #nhungkedangthatvong
 
 ---
+[![watch]()](https://github.com/laam-la4m/prf_by_nkdtv/assets/143879541/e1ea25de-3bf0-451d-b561-8c200da9b82e)
 
 ##### 🚩 Introduction
-This repository contains six folders: `draw`, `img_draw`, `other`, `img_other`, `function`, and `web`. However, you can ignore the `web` folder.
+Cái repo : `draw`, `img_draw`, `other`, `img_other`, `function`, and `web`. However, you can ignore the `web` folder.
 
 **DETAILS:**
 1. The `draw` and `other` folders contain **source code** files.
