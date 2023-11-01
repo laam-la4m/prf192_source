@@ -64,7 +64,8 @@ _
 58. Kiểm tra xem số được nhập vào có phải là ugly number (lá số có tích từ các số 2, 3 ,5. VD: 6 = 2 x 3; 30 = 2 x 3 x 5) không? 
 _
 59. Nhập vào một số n, nhập vào n số từ 0 -> n - lúc này sẽ bị thiếu 1 số - chương trình sẽ in ra số còn lại trong dãy từ 0 -> n đó.
-
+_
+61. Tính tổng của 2 phân số.
 ---
 CHAR:
 

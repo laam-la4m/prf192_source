@@ -1,0 +1,27 @@
+/* Định dạng cho thẻ pre */
+pre {
+    margin: 0;
+    padding: 10px;
+    font-family: 'IntelOneMono-Medium', monospace;
+    font-size: 15px;
+    line-height: 1.4;
+    background-color: #f7f8fa; /* Màu nền giống GitHub */
+    color: #333; /* Màu chữ giống GitHub */
+    border: 1px solid #d1d5da; /* Đường viền giống GitHub */
+    border-radius: 6px;
+    overflow: auto;
+}
+
+/* Định dạng cho thẻ code bên trong pre */
+pre code {
+    display: block;
+}
+
+/* Các lớp CSS cho các ngôn ngữ cụ thể, ví dụ cho C */
+.language-c {
+    color: #333; /* Màu sắc chữ cho ngôn ngữ C */
+    background-color: #f7f8fa; /* Màu nền cho ngôn ngữ C */
+}
+.language-c .function {
+    color: #0074d9; /* Màu sắc cho function */
+}
