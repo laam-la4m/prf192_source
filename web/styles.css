@@ -123,5 +123,5 @@ input:checked + .slider:before {
     transform: translate(-50%, -50%);
     color: #4a4a4a;
     font-size: 56px;
-    z-index: 999;
+    z-index: -1;
 }
