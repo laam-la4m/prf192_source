@@ -6,15 +6,15 @@ body {
     color: #f5f5f5;
 }
 @font-face {
-    font-family: 'IntelOneMono-Medium'; /* Đặt tên cho font chữ */
-    src: url('IntelOneMono-Medium.otf') format('otf'), /* Đường dẫn tới tệp font */
+    font-family: 'IntelOneMono-Medium';
+    src: url('IntelOneMono-Medium.otf') format('otf'),
 }
 
 .navbar {
     position: fixed;
-    width: 100%; /* Chiếm toàn bộ chiều rộng của trang */
-    top: 0; /* Đặt navbar ở vị trí trên cùng */
-    z-index: 1000; /* Đảm bảo navbar luôn nằm trên các phần tử khác */
+    width: 100%;
+    top: 0;
+    z-index: 1000;
 }
 
 .navbar {
@@ -60,8 +60,6 @@ body.light-mode {
 .navbar.light-mode a:hover {
     background-color: #000000;
 }
-
-/* Công tắc chế độ tối/sáng */
 .theme-switch-wrapper {
     display: flex;
     align-items: center;
@@ -115,6 +113,15 @@ input:checked + .slider:before {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    opacity: 0.5; /* Để làm mờ chữ */
+    opacity: 0.5;
     font-size: 20px;
+}
+.centered-text {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #4a4a4a;
+    font-size: 24px;
+    z-index: 999;
 }
