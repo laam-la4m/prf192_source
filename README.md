@@ -21,7 +21,7 @@ Source là tập hợp các bài code mẫu làm sẵn và khi vào thi bạn ch
 Ngoài ra trong 2 thư mục `draw` và `other` còn chứa thư mục con là `output`, thư mục này chứa các **file exe** dùng để **chạy code, test case** luôn mà không cần phải compiler thử.
 Trong 2 thư mục `img_draw` và `img_other` chứa file `0.txt` - đó là file ghi **toàn bộ các mô tả và đề bài** tương ứng.
 #### ❓HOW TO USE:
-1. Hãy vào toàn bộ các thư mục và setup như sau:
+1. Hãy vào toàn bộ các thư mục trên và setup như sau:
 
 [![watch]()](https://github.com/laam-la4m/prf_by_nkdtv/assets/143879541/e1ea25de-3bf0-451d-b561-8c200da9b82e)
 
