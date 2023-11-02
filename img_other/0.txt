@@ -68,6 +68,15 @@ _
 59. Nhập vào một số n, nhập vào n số từ 0 -> n - lúc này sẽ bị thiếu 1 số - chương trình sẽ in ra số còn lại trong dãy từ 0 -> n đó.
 _
 61. Tính tổng của 2 phân số.
+_
+64. In ra hệ nhị phân của một số.
+_
+65. Nhập ba chuỗi s1, s2, s3. Nếu tìm thấy sự xuất hiện của chuỗi s2 trong s1 thì thay thế đoạn s2 xuất hiện lần cuối cùng trong s1 bằng s3, sau đó in ra s1.
+_
+66. Nhập số, đọc số đó theo tiếng Việt không dấu.
+_
+67. Nhập n số điện thoại di động ( độ dài từ 10 - 11 số bắt đầu từ số 0) hoặc số điện thoại bàn (gồm 2 - 4 số nằm trong ngoặc kép và 7 số nằm kế tiếp.). Đếm số lần xuất hiện số điện thoại bàn hoặc di động tùy đề bài.
+
 ---
 CHAR:
 
