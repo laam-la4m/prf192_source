@@ -126,3 +126,5 @@ _
 60. Nhập vào dãy a, b. Kiểm tra xem các phần tử của dãy a có nằm trong dãy b không, nếu tất cả đều nằm trong b, in ra true và ngược lại.
 _
 61. Nhập một chuỗi, viết hoa chữ cái đầu của chuỗi đó.
+_
+63. Nhập một chuỗi gồm các từ, xóa tất cả khoảng trắng thừa, chỉ để lại 1 khoảng trắng giữa các từ.
