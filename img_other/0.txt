@@ -17,6 +17,8 @@ _
 _
 13. Tính tổng chữ số đầu và chữ số cuối của 1 chữ số.
 _
+16. Nhập n phần tử, tìm số chẵn và in ra ^2 của chúng.
+_
 17. Nhập n phần tử, tìm số nhỏ nhất thứ 2.
 _
 19. Kiểm tra số nhập vào xem có phải là lũy thừa của 2 hay không, nếu đúng in ra số mũ, nếu không in ra "%d is.....".
