@@ -7,7 +7,7 @@ int main()
     int carry = 1;
 
     scanf("%d", &n);
-    for (i = 0; i < n; i++)
+    for (i = 0; i < n; i++) 
     {
         scanf("%d", &digits[i]);
     }
