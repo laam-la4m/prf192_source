@@ -3,7 +3,7 @@ NUMB:
 
 2. In ra trung bình cộng của các phần tử ở vị trí chẵn (0, 2, 4, 6,...).
 _
-3. Kiểm tra một số có phải là tổng của 2 số nguyên bình phương không (perfect squares).
+3. Kiểm tra một số có căn bậc 2 là số nguyên hay không (perfect squares).
 _
 6. Nhập vào một số, nếu số đó là số nguyên tố thì in ra mã hexa của nó, nếu không thì in ra %d is not...
 _
