@@ -35,3 +35,7 @@ v1: Xuôi
 v2: Ngược
 _
 11. Tam giác Floyd
+_
+12. Chữ X
+_
+13. Tam giác chữ số đối xứng.

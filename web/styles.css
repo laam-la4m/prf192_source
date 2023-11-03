@@ -130,3 +130,7 @@ input:checked + .slider:before {
     font-size: 56px;
     z-index: -1;
 }
+table td:first-child, table th:first-child {
+    text-align: center;
+    vertical-align: middle;
+}
