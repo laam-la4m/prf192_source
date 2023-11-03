@@ -1,6 +1,7 @@
 ### PRF192 SOURCE FOR PRACTICE EXAM
 #nhungkedangthatvong
-Nếu bạn nhận được đường link này cũng như đã vào được trong đây thì hãy nhớ:
+
+👉Nếu bạn nhận được đường link này cũng như đã vào được trong đây thì hãy nhớ:
 
 **"HẠN CHẾ CHIA SẺ và ĐỪNG DÙNG NÓ ĐỂ KIẾM TIỀN"**
 
