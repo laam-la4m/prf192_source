@@ -19,9 +19,10 @@ Source là tập hợp các bài code mẫu làm sẵn và khi vào thi bạn ch
 2. `[other]`: chứa **source code** của các bài **còn lại**, như chuỗi, tính toán, ...
 3. `img_draw`: chứa toàn bộ ảnh **input** và **output** của source code tương ứng về các bài **vẽ hình**.
 4. `img_other`: chứa toàn bộ ảnh **input** và **output** của source code tương ứng về các bài **còn lại** (không phải vẽ hình).
-5. `function`: source core của tập hợp các **chức năng** hay gặp.
+5. `function`: **source core** của tập hợp các **chức năng** hay gặp.
 6. `web`: phần dữ liệu của web - web này chứa các kiến thức về các hàm trong thư viện để tra cứu.
 7. `clib.bat`: file này để **chạy web** bên trên.
+
 Ngoài ra trong 2 thư mục `draw` và `other` còn chứa thư mục con là `output`, thư mục này chứa các **file exe** dùng để **chạy code, test case** luôn mà không cần phải compiler thử.
 Trong 2 thư mục `img_draw` và `img_other` chứa file `0.txt` - đó là file ghi **toàn bộ các mô tả và đề bài** tương ứng.
 #### ❓HOW TO USE:
