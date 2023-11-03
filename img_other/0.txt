@@ -114,7 +114,7 @@ _
 _
 31. Đếm xem 3 chữ cái đầu tiên của chuỗi có bao nhiêu kí tự ( không bao gồm khoảng trắng và kí tự đặc biệt).
 _
-35. Nhập chuỗi, chuyển tất cả kí tự thành dạng chữ cái đầu viết hoa.
+35. Nhập chuỗi, viết hoa 2 chữ cái đầu của mỗi từ (lưu ý giữ nguyên các dấu space).
 _
 37. Xóa tất cả kí tự không phải là số trong chuỗi.
 _

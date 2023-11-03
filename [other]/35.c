@@ -1,33 +1,43 @@
 #include <stdio.h>
 #include <string.h>
-#include <ctype.h>
-
-int main() {
+int main()
+{
+    int i, check = 0;
     char s[101];
-    int i;
-
-    fgets(s, sizeof(s), stdin);
+    fgets(s, 101, stdin);
     s[strcspn(s, "\n")] = '\0';
 
-    if(islower(s[0])) {
-        s[0] = toupper(s[0]);
+    if (s[0] >= 'a' && s[0] <= 'z')
+    {
+        s[0] -= 32;
     }
-    if(islower(s[1])) {
-        s[1] = toupper(s[1]);
-    }
-
-    for(i = 1; i < strlen(s) - 1; i++) {
-        if(s[i] == ' ' && islower(s[i+1])) {
-            s[i+1] = toupper(s[i+1]);
-            if(islower(s[i+2])) {
-                s[i+2] = toupper(s[i+2]);
-            }
+    else if (s[0] >= 'A' && s[0] <= 'Z')
+    {
+        if (s[1] >='a' && s[1] <= 'z')
+        {
+            s[1] -= 32;
         }
     }
+    for (i = 0; s[i] != '\0'; i++)
+    {
+        if (s[i] == ' ')
+        {
+            check = 0;
+        }
 
-    puts("\nOUTPUT:");  
-
+        if (s[i] >= 'a' && s[i] <= 'z')
+        {
+            check ++;
+            if (check <=2)
+            {
+            s[i] -= 32;
+            }
+            
+        }
+        else if (s[i] >= 'A' && s[i] <= 'Z')
+        {
+            check ++;
+        }
+    }
     printf("%s", s);
-
-    return 0;
 }
