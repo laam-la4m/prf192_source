@@ -14,7 +14,7 @@ Là một trong những giải pháp và được đa số người lựa chọn
 *Vậy source là gì?*
 Source là tập hợp các bài code mẫu làm sẵn và khi vào thi bạn chỉ cần tìm và copy paste bài giống như vậy vào bài làm của bạn.
 #### 😶 DETAILS:
-Ở chiếc **source** này bao gồm 6 folder và 1 file trọng yếu như sau:
+Ở chiếc **source** này bao gồm 6 folder và 1 file, trọng yếu như sau:
 1. `[draw]`: chứa **source code** của các bài liên quan đến **vẽ hình**.
 2. `[other]`: chứa **source code** của các bài **còn lại**, như chuỗi, tính toán, ...
 3. `img_draw`: chứa toàn bộ ảnh **input** và **output** của source code tương ứng về các bài **vẽ hình**.

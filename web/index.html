@@ -158,7 +158,7 @@
             <p><strong>fgets()</strong>: nhập chuỗi từ bàn phím hoặc một luồng dữ liệu.</p>
             <pre>
     char a[101];
-    //fgets sẽ để lại một kí tự NULL('\0'), ở cuối chuỗi.
+    //fgets sẽ để lại một kí tự NULL('\n'), ở cuối chuỗi vì vậy nó chỉ đọc nhập được 100 kí tự còn 1 kí tự là cho '\n'.
     // Vì vậy nếu muốn nhập n kí tự, ta phải khai báo n+1 kí tự.
     fgets (a, sizeof(a), stdin);</pre>
             <p><strong>%#</strong>: in mã hexa hoặc octal có bao gồm tiền tố 0x</p>
