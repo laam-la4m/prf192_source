@@ -78,6 +78,8 @@ _
 67. Nhập n số điện thoại di động ( độ dài từ 10 - 11 số bắt đầu từ số 0) hoặc số điện thoại bàn (gồm 2 - 4 số nằm trong ngoặc kép và 7 số nằm kế tiếp.). Đếm số lần xuất hiện số điện thoại bàn hoặc di động tùy đề bài.
 _
 69. Nhập vào n số (ví dụ 3 số 1, 2, 9); biến nó thành số thường, sau đó + 1 đơn vị, (lúc này nó sẽ là 130), sau đó in ra các số riêng lẻ (1, 3, 0).
+_
+71. Nhập vào n số, tìm vị trí được gọi là sâu nhất (vị trí sâu là vị trí mà 2 số đứng cạnh nó đều lớn hơn nó).
 ---
 CHAR:
 
@@ -143,4 +145,4 @@ _
 _
 68. Nhập một chuỗi và mã hóa nó dưới dạng số theo một quy tắc nhất định. (xem code để biết quy tắc)
 _
-70. Kiểm tra 1 chuỗi có phải là chuỗi palìdrome hay không (đọc ngược xuôi đều giống nhau).
+70. Kiểm tra 1 chuỗi có phải là chuỗi palindrome hay không (đọc ngược xuôi đều giống nhau).
