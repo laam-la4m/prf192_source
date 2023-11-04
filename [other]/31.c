@@ -1,36 +1,27 @@
 #include <stdio.h>
-#include <string.h>
-
 int main()
 {
-    //---//
-    char s[101];
-    int wordCount = 0, charCount = 0, i = 0;
-
-    fgets(s, sizeof(s), stdin);
-
-    if (s[strlen(s) - 1] == '\n')
+    //------------//
+    int i, j, k = 0, t = 0;
+    char s[100];
+    gets(s);
+    for (i = 0; i < strlen(s); i++)
     {
-        s[strlen(s) - 1] = '\0';
-    }
-    while (s[i] != '\0' && wordCount < 3)
-    {
-        while (s[i] == ' ' && s[i] != '\0')
+        if (s[i] == ' ')
         {
-            i++;
+            k = k + 1;
         }
-        if (s[i] != ' ' && s[i] != '\0')
-        {   
-            wordCount++;
-            while (s[i] != ' ' && s[i] != '\0')
+        else if (k == 3)
+        {
+            for (j = 1; j <= i; j++)
             {
-                charCount++;
-                i++;
+                t = j - 3;
             }
+            break;
         }
     }
-    //---//
+    //------------//
     puts("\nOUTPUT:");
-    //---//
-    printf("%d", charCount);
+    //------------//
+    printf("%i", t);
 }

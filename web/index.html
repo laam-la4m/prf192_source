@@ -244,6 +244,14 @@
     strupr(a);
     printf("%s", a);
     //OUTPUT: DUNGNGUVC</pre>
+    <p><strong>strcspn()</strong>: hàm này sử dụng để cắt chuỗi lớn từ vị trí sau khi chuỗi con được phát hiện.</p>
+    <pre>
+    char a[] = "Nhungcungngu, vc";
+    l = strcspn(a, ',');
+    //strcspn sẽ trả về số lượng ký tự từ đầu chuỗi a cho đến khi gặp ',' đầu tiên
+    //Kết hợp với con trỏ sẽ tốt hơn.
+    printf ("%d", l);
+    //OUTPUT: 12</pre>
         </div>
         <div id="stdlib" class="library">
             <h2>stdlib.h</h2>
